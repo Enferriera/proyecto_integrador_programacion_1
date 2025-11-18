@@ -147,4 +147,4 @@ Si `paises.csv` no existe, se generará automáticamente cuando agregues o actua
 ## 👤 Autor
 
 Proyecto realizado como Trabajo Práctico Integrador (TPI).  
-Si necesitás una versión en PDF, una portada o un resumen para entregar, puedo generarlo también.
+
